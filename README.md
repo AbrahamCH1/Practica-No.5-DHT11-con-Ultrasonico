@@ -86,10 +86,10 @@ void loop() {
 
 ```
 2. Instalar la libreria de **LiquidCrystal I2C** y **DHT sensor library for ESPx** como se muestra en la siguiente imagen.
-![](https://github.com/AbrahamCH1/Practica-No.3-DHT-con-LCD/blob/main/Captura%20de%20pantalla%20(296).png?raw=true)
+![](https://github.com/AbrahamCH1/Practica-No.5-DHT11-con-Ultrasonico/blob/main/Captura%20de%20pantalla%20(305).png?raw=true)
 
 3. Hacer la conexion del sensor **DHT11**, **ULTRASONICO** y **LCD 16x2 (I2C)** con la **ESP32** como se muestra en la siguente imagen.
-![](https://github.com/AbrahamCH1/Practica-No.4-ESP32-con-ULTRASONICO/blob/main/Captura%20de%20pantalla%20(299).png?raw=true)
+![](https://github.com/AbrahamCH1/Practica-No.5-DHT11-con-Ultrasonico/blob/main/Captura%20de%20pantalla%20(306).png?raw=true)
 
 ### Instrucciones de operación
 1. Iniciar simulador.
@@ -99,8 +99,9 @@ void loop() {
 5. Colocar los valores de temperatura y humedad dando *doble click* al sensor **DHT11**. 
 ## Resultados
 Cuando haya funcionado, se podrán observar los valores dentro de la pantalla LCD.
-![](https://github.com/AbrahamCH1/Practica-No.4-ESP32-con-ULTRASONICO/blob/main/Captura%20de%20pantalla%20(300).png?raw=true)
-![](https://github.com/AbrahamCH1/Practica-No.4-ESP32-con-ULTRASONICO/blob/main/Captura%20de%20pantalla%20(301).png?raw=true)
+![](https://github.com/AbrahamCH1/Practica-No.5-DHT11-con-Ultrasonico/blob/main/Captura%20de%20pantalla%20(307).png?raw=true)
+![](https://github.com/AbrahamCH1/Practica-No.5-DHT11-con-Ultrasonico/blob/main/Captura%20de%20pantalla%20(308).png?raw=true)
+![](https://github.com/AbrahamCH1/Practica-No.5-DHT11-con-Ultrasonico/blob/main/Captura%20de%20pantalla%20(309).png?raw=true)
 
 # Créditos
 Desarrollado por Ing. Abraham Contreras Herrera
