@@ -1,5 +1,5 @@
 # Practica-No.5-DHT11-con-ULTRASONICO-y-LCD
-Dentro de este repositorio se muestra la manera de programar una ESP32 con el sensor **ULTRASÓNICO**, el sensor DHT11 y además, que los datos obtenidos se muestren en una pantalla LCD, así como información personal.
+Dentro de este repositorio se muestra la manera de programar una ESP32 con el sensor **ULTRASÓNICO**, el sensor **DHT11** y además, que los datos obtenidos se muestren en una pantalla LCD, así como información personal.
 ## Introducción
 ### Descripción
 La **ESP32** se utiliza en un entorno de adquisición de datos, por lo cual en esta práctica utilizaremos un sensor **ULTRASÓNICO** para obtener el registro de distancia hacia un objeto o superficie. Además, con el sensor DHT11 obtendremos el registro de temperatura y humedad. Dichos registros serán mostrados de manera visual en una pantalla LCD. Posterior a ser mostrados los datos de la distancia, humedad y temperatura, se conseguirá observar en la misma pantalla, mi nombre y mi carrera. Para esta practica se hace uso de un simulador llamado [WOKWI](https://wokwi.com/projects/new/esp32).
